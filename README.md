@@ -1,6 +1,6 @@
 Making a Simple Portfolio! <br> <br>
 Visit: <br>
-https://rupomchowdhury.github.io/Portfolio-Project-1 <br> https://1.rupom.live <br> https://www.rupom.live/Portfolio-Project-1
+https://rupomchowdhury.github.io/Portfolio-Project-1 <br> https://www.rupom.live/Portfolio-Project-1 <br> https://1.rupom.live
 <br>
 <br>
 <br>
