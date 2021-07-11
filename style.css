@@ -65,22 +65,12 @@ h1{
     border-image: linear-gradient(tomato, purple);
     border-image-slice: 1;
 }
-.footer-pos{
+.footer{
     text-align: center;
 }
 .exp-h1{
    text-align: center;
 }
-/* .footer{
-    text-align: center;
-    padding-left: 14.75%;
-    padding-right: 14.75%;
-    padding-top: 3%;
-    padding-bottom: 6%;
-    margin-top: 2%;
-    font-size: 15px;
-    background-color: black;
-} */
 #ftr{
     color: rgb(56, 55, 54);
 }
